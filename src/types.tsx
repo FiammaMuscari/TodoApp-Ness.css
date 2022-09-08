@@ -4,6 +4,5 @@ export type Note = {
     lastEdited: string;
     archived: boolean;
     content: string;
-    categories: string[];
-  };
+};
 
